@@ -11,8 +11,8 @@ SQL is a programming language used to manage and manipulate relational databases
 
   -> Control user access to data
 
-##🛣️ SQL Learning Roadmap :
+## 🛣️ SQL Learning Roadmap :
 
-###Click below the given link for better understand
+### Click below the given link for better understand
 
 --https://mm.tt/map/3767333927?t=jAumYj9uqy
