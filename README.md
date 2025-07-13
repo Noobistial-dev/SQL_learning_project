@@ -1,6 +1,7 @@
 # SQL(Structured Query Language)
 🧠 What is SQL?
-SQL is a programming language used to manage and manipulate relational databases. You use it to:
+
+SQL is a programming language used to manage and manipulate relational databases. We use it to:
 
   -> Retrieve data
 
