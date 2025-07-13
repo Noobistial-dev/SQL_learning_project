@@ -17,4 +17,5 @@ SQL is a programming language used to manage and manipulate relational databases
 
 --https://mm.tt/map/3767333927?t=jAumYj9uqy
 
-![Uploading image.png…]()
+<img width="1008" height="532" alt="image" src="https://github.com/user-attachments/assets/48cdfdcb-b7f6-42ee-baef-08abfdefc7ee" />
+
